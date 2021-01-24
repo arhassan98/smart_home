@@ -1,0 +1,1 @@
+"./main.o" "./tm4c123gh6pm_startup_ccs_gcc.o" "./HAL/HBLUETOOTH/HBLUETOOTH_program.o" "./MCAL/MDIO/MDIO_program.o" "./MCAL/MSPI/MSPI_program.o" "./MCAL/MSysTick/MSysTick_program.o" "./MCAL/MUART/MUART_program.o" -Wl,-T"../tm4c123gh6pm.lds" 
